@@ -19,3 +19,5 @@
 - Distributions<br>
 - Normal distribution<br>
 - Z distribution<br>
+
+# Day 4 | Supervised and Unsupervised Learning
