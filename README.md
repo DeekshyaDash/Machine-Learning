@@ -20,4 +20,10 @@
 - Normal distribution<br>
 - Z distribution<br>
 
-# Day 4 | Supervised and Unsupervised Learning
+# Day 4 | Probability Continuation
+
+- Central Limit Theorem<br>
+- Estimators<br>
+- Confidence Intervals<br>
+- T-distribution<br>
+- Hypothesis testing<br>
