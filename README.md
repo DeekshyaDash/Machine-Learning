@@ -27,3 +27,13 @@
 - Confidence Intervals<br>
 - T-distribution<br>
 - Hypothesis testing<br>
+
+# Day 5 | Trained our first model from Kaggle 
+
+- How Model works
+- Basic Model Exploration
+- Your first machine learning
+- Model Validation
+- Underfitting and Overfitting
+- Random Forests
+- Machine Learning Competition
