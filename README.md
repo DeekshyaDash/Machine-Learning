@@ -37,3 +37,14 @@
 - Underfitting and Overfitting
 - Random Forests
 - Machine Learning Competition
+
+# Day 6 | Intermediate Machine Learning from kaggle
+
+
+- Dealing with Missing Values
+- Categorical Variables
+- Cross-Validation
+- introduction to XGBoost
+- Data Leakage
+
+link to our resource [here](https://www.kaggle.com/learn/intermediate-machine-learning)
