@@ -1,9 +1,9 @@
 ﻿# 100-Days-of-ML-Code-Challenge
 
-# Day 1 | Introduction to Machine Learning
+### Day 1 | Introduction to Machine Learning
 ![Day1](https://user-images.githubusercontent.com/48490089/97810888-156f7000-1c9d-11eb-8b3d-56f3714e3757.jpg)
 
-# Day 2 | Mathematics for Machine Learning
+### Day 2 | Mathematics for Machine Learning
 - Linear Algebra<br>
 - Matrix and vector operations<br>
 - Eigen Value, Eigen vector & Eigen decomposition<br>
@@ -11,7 +11,7 @@
 - Linear system of equation, Gauss Elimination<br>
 - Calculus<br>
 
-# Day 3 | Probability and Statistics
+### Day 3 | Probability and Statistics
 
 - Measures of central tendencies<br>
 - Descriptive and Inferential Statistics<br>
@@ -20,7 +20,7 @@
 - Normal distribution<br>
 - Z distribution<br>
 
-# Day 4 | Probability Continuation
+### Day 4 | Probability Continuation
 
 - Central Limit Theorem<br>
 - Estimators<br>
@@ -28,7 +28,7 @@
 - T-distribution<br>
 - Hypothesis testing<br>
 
-# Day 5 | Trained our first model from Kaggle 
+### Day 5 | Trained our first model from Kaggle 
 
 - How Model works
 - Basic Model Exploration
@@ -38,7 +38,7 @@
 - Random Forests
 - Machine Learning Competition
 
-# Day 6 | Intermediate Machine Learning from kaggle
+### Day 6-7 | Intermediate Machine Learning from kaggle
 
 
 - Dealing with Missing Values
