@@ -38,7 +38,7 @@
 - Random Forests
 - Machine Learning Competition
 
-link to the [resource](https://www.kaggle.com/learn/intro-to-machine-learning) | link to [certificate](https://www.kaggle.com/learn/certification/deekshyadash/intro-to-machine-learning)
+link to the [resource](https://www.kaggle.com/learn/intro-to-machine-learning) | link to [certificate](https://www.kaggle.com/learn/certification/deekshyadash/intro-to-machine-learning) | link to [code](https://github.com/DeekshyaDash/100-Days-of-ML-Code-Challenge/tree/main/Code/1_Intro_to_Machine_Learning)
 
 ### Day 6-8 | Intermediate Machine Learning from kaggle
 
