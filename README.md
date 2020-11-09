@@ -38,7 +38,7 @@
 - Random Forests
 - Machine Learning Competition
 
-### Day 6-7-8 | Intermediate Machine Learning from kaggle
+### Day 6-8 | Intermediate Machine Learning from kaggle
 
 
 - Dealing with Missing Values
