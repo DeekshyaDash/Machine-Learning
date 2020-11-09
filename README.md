@@ -38,6 +38,8 @@
 - Random Forests
 - Machine Learning Competition
 
+link to the [resource](https://www.kaggle.com/learn/intro-to-machine-learning) | link to [certificate](https://www.kaggle.com/learn/certification/deekshyadash/intro-to-machine-learning)
+
 ### Day 6-8 | Intermediate Machine Learning from kaggle
 
 
