@@ -43,8 +43,18 @@
 
 - Dealing with Missing Values
 - Categorical Variables
+- Pipelines
 - Cross-Validation
 - introduction to XGBoost
 - Data Leakage
 
-link to our resource [here](https://www.kaggle.com/learn/intermediate-machine-learning)
+link to the [resource](https://www.kaggle.com/learn/intermediate-machine-learning) | link to [certificate](https://www.kaggle.com/learn/certification/deekshyadash/intermediate-machine-learning) 
+
+### Day 9 | Pandas from Kaggle
+
+- Creating, Reading and Writing
+- Indexing, Selecting & Assigning
+- Summary Functions and Maps
+- Grouping and Sorting
+- Data Types and Missing Values
+- Renaming and Combining
