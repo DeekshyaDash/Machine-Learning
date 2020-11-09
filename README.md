@@ -50,7 +50,7 @@ link to the [resource](https://www.kaggle.com/learn/intro-to-machine-learning) |
 - introduction to XGBoost
 - Data Leakage
 
-link to the [resource](https://www.kaggle.com/learn/intermediate-machine-learning) | link to [certificate](https://www.kaggle.com/learn/certification/deekshyadash/intermediate-machine-learning) 
+link to the [resource](https://www.kaggle.com/learn/intermediate-machine-learning) | link to [certificate](https://www.kaggle.com/learn/certification/deekshyadash/intermediate-machine-learning) | link to [code](https://github.com/DeekshyaDash/100-Days-of-ML-Code-Challenge/tree/main/Code/2_Intermediate_Machine_Learning}
 
 ### Day 9 | Pandas from Kaggle
 
