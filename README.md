@@ -60,3 +60,15 @@ link to the [resource](https://www.kaggle.com/learn/intermediate-machine-learnin
 - Grouping and Sorting
 - Data Types and Missing Values
 - Renaming and Combining
+
+link to the [resource](https://www.kaggle.com/learn/pandas) | link to [certificate](https://www.kaggle.com/learn/certification/deekshyadash/pandas) | link to [code](https://github.com/DeekshyaDash/100-Days-of-ML-Code-Challenge/tree/main/Code/3_Pandas)
+
+### Day 11 | Data Cleaning from Kaggle
+
+- Handling missing values
+- Scaling and Normalization
+- Parsing Dates
+- Character Encodings
+- Inconsistent Data Entry
+
+link to the [resource](https://www.kaggle.com/learn/data-cleaning) 
