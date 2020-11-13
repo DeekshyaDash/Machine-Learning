@@ -71,4 +71,4 @@ link to the [resource](https://www.kaggle.com/learn/pandas) | link to [certifica
 - Character Encodings
 - Inconsistent Data Entry
 
-link to the [resource](https://www.kaggle.com/learn/data-cleaning) | link to [certificate](https://www.kaggle.com/learn/certification/deekshyadash/data-cleaning)
+link to the [resource](https://www.kaggle.com/learn/data-cleaning) | link to [certificate](https://www.kaggle.com/learn/certification/deekshyadash/data-cleaning) | link to [code](https://github.com/DeekshyaDash/100-Days-of-ML-Code-Challenge/tree/main/Code/4_Data%20Cleaning)
