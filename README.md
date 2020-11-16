@@ -73,7 +73,7 @@ link to the [resource](https://www.kaggle.com/learn/pandas) | link to [certifica
 
 link to the [resource](https://www.kaggle.com/learn/data-cleaning) | link to [certificate](https://www.kaggle.com/learn/certification/deekshyadash/data-cleaning) | link to [code](https://github.com/DeekshyaDash/100-Days-of-ML-Code-Challenge/tree/main/Code/4_Data%20Cleaning)
 
-### Day 12-15 | Data Analysis with Python from cognitiveclass.ai
+### Day 12-16 | Data Analysis with Python from cognitiveclass.ai
 
   * #### Introduction
      * Introduction to Data Analysis with Python 
@@ -115,4 +115,4 @@ link to the [resource](https://www.kaggle.com/learn/data-cleaning) | link to [ce
      * Ridge Regression
      * Grid Search
      
-link to [resource](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+2017/course/)
+link to [resource](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+2017/course/) | link to [code](https://github.com/DeekshyaDash/100-Days-of-ML-Code-Challenge/tree/main/Code/5_Data%20Analysis%20with%20Python)
