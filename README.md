@@ -75,7 +75,7 @@ link to the [resource](https://www.kaggle.com/learn/data-cleaning) | link to [ce
 
 ### Day 12-15 | Data Analysis with Python from cognitiveclass.ai
 
-  * #### Introduction
+  - #### Introduction
      * Introduction to Data Analysis with Python 
      * The Problem 
      * Understanding the Data 
@@ -84,7 +84,7 @@ link to the [resource](https://www.kaggle.com/learn/data-cleaning) | link to [ce
      * Getting Started Analyzing Data in Python 
 
 
-   * #### Data Wrangling
+   - #### Data Wrangling
      * Pre-processing Data in Python 
      * Dealing with Missing Values in Python 
      * Data Formatting in Python 
@@ -92,7 +92,7 @@ link to the [resource](https://www.kaggle.com/learn/data-cleaning) | link to [ce
      * Binning in Python 
      * Turning categorical into quantitative variables 
 
-   * #### Exploratory Data Analysis
+   - #### Exploratory Data Analysis
      * Exploratory Data Analysis 
      * Descriptive Statistics 
      * GroupBy in Python 
@@ -100,7 +100,7 @@ link to the [resource](https://www.kaggle.com/learn/data-cleaning) | link to [ce
      * Correlation 
      * Correlation Statistics 
 
-   * #### Model Development
+   - #### Model Development
      * Introduction
      * Simple and Multiple Linear Regression 
      * Model Evaluation using Visualization 
@@ -108,7 +108,7 @@ link to the [resource](https://www.kaggle.com/learn/data-cleaning) | link to [ce
      * Measures for In-Sample Evaluation 
      * Prediction and Decision Making 
 
-   * #### Model Evaluation:
+   - #### Model Evaluation:
      * Model Evaluation and Refinement 
      * Model Evaluation 
      * Overfitting, Underfitting and Model Selection 
