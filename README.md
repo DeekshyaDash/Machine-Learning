@@ -115,4 +115,4 @@ link to the [resource](https://www.kaggle.com/learn/data-cleaning) | link to [ce
      * Ridge Regression
      * Grid Search
      
-link to [resource](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+2017/course/) | link to [code](https://github.com/DeekshyaDash/100-Days-of-ML-Code-Challenge/tree/main/Code/5_Data%20Analysis%20with%20Python)  
+link to [resource](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+2017/course/) | link to [code](https://github.com/DeekshyaDash/100-Days-of-ML-Code-Challenge/tree/main/Code/5_Data%20Analysis%20with%20Python)    
