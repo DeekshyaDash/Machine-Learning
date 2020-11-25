@@ -118,7 +118,7 @@ link to the [resource](https://www.kaggle.com/learn/data-cleaning) | link to [ce
 link to [resource](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+2017/course/) | link to [code](https://github.com/DeekshyaDash/100-Days-of-ML-Code-Challenge/tree/main/Code/5_Data%20Analysis%20with%20Python)    
 
 
-### Day 16-18 | Data Visualization from Kaggle
+### Day 16-17 | Data Visualization from Kaggle
 
 * Hello, Seaborn
 * Line Charts
@@ -130,7 +130,7 @@ link to [resource](https://courses.cognitiveclass.ai/courses/course-v1:Cognitive
 
 Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    |   Link to our code [here]()  |   Link to certificate[here]()
 
-### Day 19-21 | Data Visualization with Python from cognitiveclass.ai
+### Day 18-21 | Data Visualization with Python from cognitiveclass.ai
 
 * #### Introduction to Visualization Tools
 
