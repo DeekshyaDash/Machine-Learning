@@ -164,5 +164,5 @@ Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    
   * Choropleth Maps    
 
 link to [resource](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DV0101EN+v1/course/)  |  link to [code]() 
-
+  
      
