@@ -15,7 +15,7 @@
 
 - Measures of central tendencies<br>
 - Descriptive and Inferential Statistics<br>
-- Types of Data<br>
+- Types of Data<br>  
 - Distributions<br>
 - Normal distribution<br>
 - Z distribution<br>
