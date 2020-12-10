@@ -11,7 +11,7 @@
 - Linear system of equation, Gauss Elimination<br>
 - Calculus<br>
 
-### Day 3 | Probability and Statistics
+### Day 3 | Probability and Statistics  
 
 - Measures of central tendencies<br>
 - Descriptive and Inferential Statistics<br>
