@@ -169,7 +169,7 @@ link to [resource](https://courses.cognitiveclass.ai/courses/course-v1:Cognitive
   * Titanic Dataset
   * Terrorism Datset
   
-### Day 24-30 | Machine Learning from cognitiveclass.ai
+### Day 24-31 | Machine Learning from cognitiveclass.ai
 
   * #### Module 1 - Machine Learning
 
