@@ -176,5 +176,14 @@ link to [resource](https://courses.cognitiveclass.ai/courses/course-v1:Cognitive
     * Intro to Machine Learning 
     * Python for Machine Learning 
     * Supervised vs Unsupervised 
+    
+  * #### Module 2 - Regression
+
+    * Intro to Regression 
+    * Simple Linear Regression 
+    * Multiple Linear Regression 
+    * Model Evaluation 
+    * Evaluation Metrics 
+    * Non-Linear Regression 
   
      
