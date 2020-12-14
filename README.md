@@ -32,7 +32,7 @@
 
 - How Model works
 - Basic Model Exploration
-- Your first machine learning
+- Your first machine learning  
 - Model Validation
 - Underfitting and Overfitting
 - Random Forests
