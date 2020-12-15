@@ -185,5 +185,7 @@ link to [resource](https://courses.cognitiveclass.ai/courses/course-v1:Cognitive
     * Model Evaluation 
     * Evaluation Metrics 
     * Non-Linear Regression 
+    
+   
   
      
